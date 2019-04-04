@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Ejemplo</string>
+    <string name="hola">mitexto</string>
+    <string name="textolargo">Trabajo 2Leer en el libro la parte relacionada con la Reforma Agraria y responder a las
+        siguientes preguntas:1.¿Qué objetivo tenía la Reforma Agraria o Decreto 900?2.Escriban tres características o
+        aspectos de cómo iba a aplicarse la Reforma Agraria3.¿Por qué la mayor parte de la tierra se le dio a los
+        campesinos en usufructo y no en propiedad?4.¿Cómo era la estructura administrativa jerárquica que se encargaba
+        de coordinar la aplicación de la ley?5.¿Qué beneficios se obtuvieron?6.¿Qué errores se cometieron en la
+        aplicación de la ley?7.Dé su opinión personal sobre la Reforma Agraria
+    </string>
+    <string name="nameedittext">edittext</string>
+</resources>
